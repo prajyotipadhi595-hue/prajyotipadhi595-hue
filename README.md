@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- Waving Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=220&section=header&text=prajyotipadhi595-hue&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Final-Year%20B.Tech%20CSE%20Student%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=220&section=header&text=Prajyoti%20Padhi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Final-Year%20B.Tech%20CSE%20Student%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://github.com/prajyotipadhi595-hue">
